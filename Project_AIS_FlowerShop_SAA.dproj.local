@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.699,C:\Users\MSI NoteBook\Desktop\аис\UnitAdmin.dfm=C:\Users\MSI NoteBook\Desktop\аис\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\Users\MSI NoteBook\Desktop\аис\UnitOfZac.pas=C:\Users\MSI NoteBook\Desktop\аис\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.635,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitVhod_SAA.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.160,C:\Users\MSI NoteBook\Desktop\аис\Project_AIS_FlowerShop_SAA.dproj=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Project_AIS_FlowerShop_SAA.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.901,C:\Users\MSI NoteBook\Desktop\аис\UnitAvtori.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitAvtori.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,C:\Users\MSI NoteBook\Desktop\аис\Unit1234455.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1234455.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitWelcome.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.724,C:\Users\MSI NoteBook\Desktop\аис\UnitOfZakaz.dfm=C:\Users\MSI NoteBook\Desktop\аис\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1234455.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.901,C:\Users\MSI NoteBook\Desktop\аис\UnitAvtori.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitAvtori.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitVhod.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitVhod_SAA.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\MSI NoteBook\Desktop\аис\UnitKatalog.pas=C:\Users\MSI NoteBook\Desktop\аис\Unit1234455.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,C:\Users\MSI NoteBook\Desktop\аис\UnitWelcome.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitWelcome.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.724,C:\Users\MSI NoteBook\Desktop\аис\UnitOfZakaz.pas=C:\Users\MSI NoteBook\Desktop\аис\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\MSI NoteBook\Desktop\аис\UnitKatalog.dfm=C:\Users\MSI NoteBook\Desktop\аис\Unit1234455.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitReg.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,C:\Users\MSI NoteBook\Desktop\аис\UnitSotrVhod.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitSotrVhod.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitAvtori.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,C:\Users\MSI NoteBook\Desktop\аис\UnitWelcome.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitWelcome.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,C:\Users\MSI NoteBook\Desktop\аис\Unit1234455.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1234455.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,C:\Users\MSI NoteBook\Desktop\аис\UnitReg.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitReg.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitVhod.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitVhod_SAA.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,C:\Users\MSI NoteBook\Desktop\аис\UnitAdmin.pas=C:\Users\MSI NoteBook\Desktop\аис\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,=C:\Users\MSI NoteBook\Desktop\аис\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.607,=C:\Users\MSI NoteBook\Desktop\аис\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,C:\Users\MSI NoteBook\Desktop\аис\UnitSotrVhod.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitSotrVhod.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,=C:\Users\MSI NoteBook\Desktop\аис\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Project_AIS_FlowerShop_SAA.dproj=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitWelcome.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitAvtori.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,C:\Users\MSI NoteBook\Desktop\аис\UnitReg.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitReg.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitReg.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,C:\Users\MSI NoteBook\Desktop\аис\UnitVhod.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitVhod.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.635,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitVhod_SAA.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitSotrVhod.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1234455.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitSotrVhod.pas=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\Users\MSI NoteBook\Desktop\аис\UnitOfZac.dfm=C:\Users\MSI NoteBook\Desktop\аис\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,C:\Users\MSI NoteBook\Desktop\аис\UnitVhod.dfm=C:\Users\MSI NoteBook\Documents\Embarcadero\Studio\Projects\UnitVhod.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitWelcome.pas"/>
+    <File Path="UnitWelcome.dfm"/>
+    <File Path="UnitVhod.pas"/>
+    <File Path="UnitVhod.dfm"/>
+    <File Path="UnitSotrVhod.pas"/>
+    <File Path="UnitSotrVhod.dfm"/>
+    <File Path="UnitAvtori.pas"/>
+    <File Path="UnitAvtori.dfm"/>
+    <File Path="UnitReg.pas"/>
+    <File Path="UnitReg.dfm"/>
+    <File Path="UnitKatalog.pas"/>
+    <File Path="UnitKatalog.dfm"/>
+    <File Path="UnitOfZac.pas"/>
+    <File Path="UnitOfZac.dfm"/>
+    <File Path="UnitAdmin.pas"/>
+    <File Path="UnitAdmin.dfm"/>
+    <File Path="UnitOfZakaz.pas"/>
+    <File Path="UnitOfZakaz.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
